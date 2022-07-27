@@ -6,6 +6,7 @@ This repository was inspired by a repository I found on github [TheSwordBreaker/
 
 ## Installation
 
+After following these steps once you have alternate options. For now, follow these steps:
 0) Install degit (only required if you haven't used degit) - 'npm install -g degit'
 
 1) Clone the repo, replace &lt;project name&gt; with the name of the application - 'degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
@@ -15,3 +16,9 @@ This repository was inspired by a repository I found on github [TheSwordBreaker/
 4) Either:
     * Start application from terminal - 'npm run dev'
     * Open VS Code - 'code .'
+
+Now that you've used degit once:
+1) Start the process with 'degit'
+2) Select the template that you've previously used
+3) Enter the destination
+4) Decide if you want to use the cached version or not

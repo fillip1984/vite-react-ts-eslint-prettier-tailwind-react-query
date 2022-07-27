@@ -7,8 +7,11 @@ This repository was inspired by a repository I found on github [TheSwordBreaker/
 ## Installation
 
 0) Install degit (only required if you haven't used degit) - 'npm install -g degit'
+
 1) Clone the repo, replace &lt;project name&gt; with the name of the application - 'degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
 2) Open the directory - cd &lt;project name&gt;
-2) Install packages - 'npm install'
-3) Start application - 'npm run dev'
-optional 4) Open VS Code by running this command within the project's root - 'code .'
+3) Install packages - 'npm install'
+
+4) Either:
+    * Start application from terminal - 'npm run dev'
+    * Open VS Code - 'code .'

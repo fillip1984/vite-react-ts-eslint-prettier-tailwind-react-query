@@ -4,12 +4,16 @@ A starter for React with Typescript and many more useful libraries that I common
 
 This repository was inspired by a repository I found on github [TheSwordBreaker/vite-reactts-eslint-prettier](https://raw.githubusercontent.com/TheSwordBreaker/vite-reactts-eslint-prettier/main/README.md)
 
+## Prerequisites
+
+1) running 'npx degit' will install degit globally. You can do this separately or it will install when running commands below
+2) [git](https://git-scm.com/) must be installed
 ## Installation
 
 After following these steps once you have alternate options. For now, follow these steps:
 0) Install degit (only required if you haven't used degit) - 'npm install -g degit'
 
-1) Clone the repo, replace &lt;project name&gt; with the name of the application - 'degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
+1) Clone the repo, replace &lt;project name&gt; with the name of the application - 'npx degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
 2) Open the directory - cd &lt;project name&gt;
 3) Install packages - 'npm install'
 
